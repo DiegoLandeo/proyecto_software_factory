@@ -4,3 +4,5 @@ Descripción: Repositorio de prácticas del curso.
 # proyecto_software_factory
 # proyecto_software_factory
 # proyecto_software_factory
+## Tecnologías utilizadas
+- Git, GitHub, Java, Spring Boot
